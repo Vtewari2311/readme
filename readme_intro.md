@@ -13,12 +13,6 @@ Data Science & CS at UW-Milwaukee
 [![github](https://img.shields.io/badge/-{vedant}%235927-161616?style=flat-square&labelColor=7289da&logo=Discord&logoColor=white&color=161616)](https://github.com/Vtewari2311)
 
 
-<img src="https://profile-counter.glitch.me/{benthecoder}/count.svg" alt="Visitor Count" /> 
-
-![github stats overview](https://github.com/benthecoder/stats/blob/generated/overview-dark.svg)
-![github stats languages](https://github.com/benthecoder/stats/blob/generated/languages-dark.svg)
-
-
 <!-- ## Languages and Tools
 
 <p>
